@@ -1,15 +1,15 @@
-README for URL Input Video Panel
+# README for URL Input Video Panel
 
 Hey, this is Munificent, creator of the world Hangout House.
 A lot of people have been asking me how to make a panel like the one in my world, so here it is!
 
-Video Panel
+## Video Panel
 
 This video panel has a UI under it with Play, Pause, Next, Previous, and also a InputField for inputting
 a URL. This is all MasterBufferOne, so only the Master of the room can use it. If you want to change the
 default videos, just edit it as you would in the VRC_SyncVideoPlayer script. 
 
-Video Emission
+## Video Emission
 
 The prefab also has an emission video panel (EmissionScreen) behind the video panel. This allows for the
 player to emit light like an actual screen with baked lights. You will need Realtime Global Illumination 
@@ -20,13 +20,13 @@ emission does have a performance hit on the world, so you could make EmissionScr
 default so people can pick if they want it or not. You can remove EmissionScreen, if you don't want 
 emission.
 
-UI
+## UI
 
 If you want to move the UI, move the ScreenUI game object. If you move the Canvas itself, it can do
 weird things in Unity. If you want to customize the UI, similar to my world, you can draw your sprites, 
 or you can find some on the Asset Store, just look up "UI" or "GUI" and you should be able to find some.
 
-Extra Info
+## Extra Info
 
 StartTimer Trigger: Starts a timer to hit "Next" on the VRC_SyncVideoPlayer. This is to make sure the
 video is done processing by VRChat before the player tries to play it. This is configurable through the
