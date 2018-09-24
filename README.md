@@ -1,7 +1,10 @@
-# README for URL Input Video Panel
+# VRChat URL Input Video Panel
 
-Hey, this is Munificent, creator of the world Hangout House.
+Hey, this is Munificent, creator of the world Hangout House for VRChat.
 A lot of people have been asking me how to make a panel like the one in my world, so here it is!
+
+First of all, you need VRCSDK installed in Unity. If for some reason you don't have it, get it from:
+https://www.vrchat.com/download/sdk
 
 ## Video Panel
 
