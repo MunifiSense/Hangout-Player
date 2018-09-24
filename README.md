@@ -32,7 +32,7 @@ or you can find some on the Asset Store, just look up "UI" or "GUI" and you shou
 
 ## Extra Info
 
-StartTimer Trigger: Starts a timer to hit "Next" on the VRC_SyncVideoPlayer. This is to make sure the
+StartTimer Trigger: Starts a timer (a delay for now because OnTimer is broken) to hit "Next" on the VRC_SyncVideoPlayer. This is to make sure the
 video is done processing by VRChat before the player tries to play it. This is configurable through the
 NextTimer trigger, but I've found 10 seconds to be pretty good for it.
 
