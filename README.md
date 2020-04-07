@@ -1,5 +1,8 @@
 # Hangout Player
-Basically the video player in Hangout House. This is **ONLY** for VRChat!
+Basically the video player in Hangout House. This is **ONLY** for VRChat and VRChat SDK2!
+It will **NOT** work with VRChat SDK3 and Udon.
+
+[#>>DOWNLOAD HERE<<#](https://github.com/MunifiSense/Hangout-Player/releases/download/1.0/HangoutPlayer.unitypackage)
 
 ## Introduction
 This player is very similar to the player in Hangout House, and even has slightly more features than that one. I decided to make this and release it for everyone to use, so have fun! :)
@@ -11,7 +14,7 @@ Here are the list of features of this player
 - Toggle allowing others (non-Master) to enter links
 - Toggle allowing others (non-Master) to control the player
 - Toggle between old (VRCSyncVideo) and new (VRCSyncVideoStream) player
-- 3D video support on old player (Requires TCL's 3d video shaders https://github.com/TCL987/UnityShaders)
+- 3D video support on old player (Requires [TCL's 3d video shaders](https://github.com/TCL987/UnityShaders))
 - Toggleable screen emission (Must be baked)
 - Button to locally toggle the player (For people who don't want to watch videos)
 - Full set of player control buttons
