@@ -1,8 +1,8 @@
 # Hangout Player
-Basically the video player in Hangout House. This is **ONLY** for VRChat and VRChat SDK2!
+Basically the video player in Hangout House. This is **ONLY** for VRChat and VRChat SDK2!\
 It will **NOT** work with VRChat SDK3 and Udon.
 
-[#>>DOWNLOAD HERE<<#](https://github.com/MunifiSense/Hangout-Player/releases/download/1.0/HangoutPlayer.unitypackage)
+[DOWNLOAD HERE](https://github.com/MunifiSense/Hangout-Player/releases/download/1.0/HangoutPlayer.unitypackage)
 
 ## Introduction
 This player is very similar to the player in Hangout House, and even has slightly more features than that one. I decided to make this and release it for everyone to use, so have fun! :)
